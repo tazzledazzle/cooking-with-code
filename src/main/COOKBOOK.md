@@ -1,23 +1,23 @@
 # Coding Concepts Cookbook
 
 ## Table of Contents
-1. Language Setup guide
-2. Variables and Data Types
-3. Control Flow
-4. Loops
-5. Functions & Recursion
-6. Object-Oriented Programming
-7. Data Structures
-8. Algorithms
-9. Exception Handling
-10. File I/O
-11. Unit Testing
-12. Concurrency / Async
-13. HTTP Requests
-14. JSON handling
-15. Input/Output
-16. Class Modeling
-17. Index / Appendix
+> 1. Language Setup guide
+> 2. Variables and Data Types
+> 3. Control Flow
+> 4. Loops
+> 5. Functions & Recursion
+> 6. Object-Oriented Programming
+> 7. Data Structures
+> 8. Algorithms
+> 9. Exception Handling
+> 10. File I/O
+> 11. Unit Testing
+> 12. Concurrency / Async
+> 13. HTTP Requests
+> 14. JSON handling
+> 15. Input/Output
+> 16. Class Modeling
+> 17. Index / Appendix
 
 
 
@@ -55,10 +55,35 @@ Compile: `tsc file.ts && node file.js`
 2. Variables and Data Types
 
 ### Kotlin
+```kotlin
+val name: String = "Alice"
+var age: Int = 30
+```
 ### Python
+```python
+name = "Alice"
+age = 30
+```
+
 ### C++
+
+```cpp
+string name = "Alice";
+int age = 30; 
+```
+
 ### Swift
+```swift
+let name: String = "Alice"
+var age: Int = 30
+```
+
 ### TypeScript
+```ts
+let name: string = "Alice";
+let age: number = 30;
+```
+
 
 ----
 
